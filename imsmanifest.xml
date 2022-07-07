@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6Hft41WIpU1_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">CAPSTONE Project test</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="CAPSTONE_Project_test_ORG">
+    <organization identifier="CAPSTONE_Project_test_ORG">
+      <title>CAPSTONE Project test</title>
+      <item identifier="Untitled2_SCO" isvisible="true" identifierref="__6Hft41WIpU1_course_id_RES">
+        <title>CAPSTONE Project test</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Hft41WIpU1_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5zGdDO0tUwD_80_P_673_188_1362_1786.jpg" />
+      <file href="story_content/6a15jiGGuDf_44100_48_0.mp3" />
+      <file href="mobile/670jsmdBAar_80_P_350_92_1346_885.jpg" />
+      <file href="story_content/video_67pwDqeXykz_22_48_608x342.mp4" />
+      <file href="mobile/poster_6SAnASLG1G6_video_67pwDqeXykz_22_48_608x342.jpg" />
+      <file href="story_content/video_6hgtyFdWiOE_22_48_596x336.mp4" />
+      <file href="mobile/poster_6bRApB4dnCu_video_6hgtyFdWiOE_22_48_596x336.jpg" />
+      <file href="story_content/video_62ZjFWfSpce_22_48_610x340.mp4" />
+      <file href="mobile/poster_64M8bu7fEeQ_video_62ZjFWfSpce_22_48_610x340.jpg" />
+      <file href="story_content/video_5plgEUu499q_22_48_608x342.mp4" />
+      <file href="mobile/poster_690CFeoogN9_video_5plgEUu499q_22_48_608x342.jpg" />
+      <file href="story_content/video_6Poq7xTIO8u_22_48_604x340.mp4" />
+      <file href="mobile/poster_6TRvL1bh7Jf_video_6Poq7xTIO8u_22_48_604x340.jpg" />
+      <file href="story_content/video_5XLVSQDJRop_22_48_602x340.mp4" />
+      <file href="mobile/poster_6gjr1enbPOZ_video_5XLVSQDJRop_22_48_602x340.jpg" />
+      <file href="story_content/video_66CJjkFNvRQ_22_48_610x344.mp4" />
+      <file href="mobile/poster_5zbjSfn6g6k_video_66CJjkFNvRQ_22_48_610x344.jpg" />
+      <file href="story_content/video_5hemlRpe4Rq_22_48_588x332.mp4" />
+      <file href="mobile/poster_5qli1z7sg3W_video_5hemlRpe4Rq_22_48_588x332.jpg" />
+      <file href="story_content/video_62xXHU5D6oy_22_48_610x344.mp4" />
+      <file href="mobile/poster_5wl7sRcGCZh_video_62xXHU5D6oy_22_48_610x344.jpg" />
+      <file href="story_content/video_5l10MCHmzBP_22_48_582x328.mp4" />
+      <file href="mobile/poster_5onhjlD5jsP_video_5l10MCHmzBP_22_48_582x328.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape68JFAyXYAle.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5pA1w1c4w0G.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
